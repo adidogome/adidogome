@@ -1,7 +1,7 @@
 ## Hello 👋
 
 <!--
-**adidogome/adidogome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adidogome/adidogome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 i am building this space to hold documentation for my works and dreams
 
